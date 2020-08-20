@@ -1,0 +1,6 @@
+This directory includes incomplete label MIML-MNIST dataset (MNIST dataset under MIML setting with incomplet labels) 
+using in paper "Incomplete Label Multiple Instance Multiple Label Learning" - Accepted TPAMI. 
+
+This dataset include 10 folders (with propotion of incomplete labels from 0 to 0.9), each folder contains 10 folds for cross-validation. 
+
+For more details, please access the paper.
